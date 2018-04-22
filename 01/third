@@ -1,0 +1,12 @@
+# 京东商品爬取
+import requests
+
+url = "https://item.jd.com/5696028.html"
+try:
+    r = requests.get(url, timeout=30)
+    r.raise_for_status()
+    r.encoding = r.apparent_encoding
+    print('ok')
+    print(r.text)
+except:
+    print('no')
