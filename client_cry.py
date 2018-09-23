@@ -16,3 +16,4 @@ s.send(request)
 response = s.recv(1023)
 print('响应', response)
 print('响应的 str 格式', response.decode('utf-8'))
+
