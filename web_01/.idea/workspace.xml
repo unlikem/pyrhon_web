@@ -14,12 +14,30 @@
       <file leaf-file-name="client_ssl.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../web_02/client_ssl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="86" column="5" lean-forward="false" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+            <state relative-caret-position="592">
+              <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#1108#1918#0" expanded="false" />
+                <element signature="e#1959#2190#0" expanded="false" />
+                <element signature="e#2224#2453#0" expanded="false" />
+                <element signature="e#2484#2855#0" expanded="false" />
+                <element signature="e#2891#3506#0" expanded="false" />
+                <element signature="e#3525#3716#0" expanded="false" />
+                <element signature="e#3766#4512#0" expanded="false" />
+                <element signature="e#4547#4974#0" expanded="false" />
+                <element signature="e#4997#5209#0" expanded="false" />
+                <element signature="e#5228#5320#0" expanded="false" />
+                <element signature="e#5354#5373#0" expanded="false" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doge.gif" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web_02/doge.gif">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -34,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="489" />
     <option name="y" value="29" />
     <option name="width" value="1400" />
@@ -56,6 +74,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -67,7 +86,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,7 +142,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18072917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -161,14 +179,39 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#1108#1918#0" expanded="false" />
+            <element signature="e#1959#2190#0" expanded="false" />
+            <element signature="e#2224#2453#0" expanded="false" />
+            <element signature="e#2484#2855#0" expanded="false" />
+            <element signature="e#2891#3506#0" expanded="false" />
+            <element signature="e#3525#3716#0" expanded="false" />
+            <element signature="e#3766#4512#0" expanded="false" />
+            <element signature="e#4547#4974#0" expanded="false" />
+            <element signature="e#4997#5209#0" expanded="false" />
+            <element signature="e#5228#5320#0" expanded="false" />
+            <element signature="e#5354#5373#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../web_02/上课预习2.py">
+    <entry file="file://$PROJECT_DIR$/../web_02/client_ssl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="9" selection-end-column="33" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#1108#1918#0" expanded="false" />
+            <element signature="e#1959#2190#0" expanded="false" />
+            <element signature="e#2224#2453#0" expanded="false" />
+            <element signature="e#2484#2855#0" expanded="false" />
+            <element signature="e#2891#3506#0" expanded="false" />
+            <element signature="e#3525#3716#0" expanded="false" />
+            <element signature="e#3766#4512#0" expanded="false" />
+            <element signature="e#4547#4974#0" expanded="false" />
+            <element signature="e#4997#5209#0" expanded="false" />
+            <element signature="e#5228#5320#0" expanded="false" />
+            <element signature="e#5354#5373#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -186,12 +229,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../web_02/doge.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web_02/上课预习2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../web_02/client_ssl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="86" column="5" lean-forward="false" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        <state relative-caret-position="592">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#1108#1918#0" expanded="false" />
+            <element signature="e#1959#2190#0" expanded="false" />
+            <element signature="e#2224#2453#0" expanded="false" />
+            <element signature="e#2484#2855#0" expanded="false" />
+            <element signature="e#2891#3506#0" expanded="false" />
+            <element signature="e#3525#3716#0" expanded="false" />
+            <element signature="e#3766#4512#0" expanded="false" />
+            <element signature="e#4547#4974#0" expanded="false" />
+            <element signature="e#4997#5209#0" expanded="false" />
+            <element signature="e#5228#5320#0" expanded="false" />
+            <element signature="e#5354#5373#0" expanded="false" />
           </folding>
         </state>
       </provider>
